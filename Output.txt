@@ -1,0 +1,5 @@
+Output:
+
+Menor distância: 21
+Menor caminho: ['n1', 'n786', 'n74']
+O tempo para encontrar o caminho mínimo entre n1 e n74 foi de 0.001996 segundos
