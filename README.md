@@ -10,3 +10,5 @@ Processador 1.8 GHz Intel Core i5, com 16 GB 1600 MHz DDR4 e SSD 256 GB e sistem
 f.	Software necessário:  Todo o projeto está rodando no Windows 11 (Build 22000.739)
 g.	Disponibilidade: Disponível em: https://github.com/GPereira2609/DijkstraWithA-  
 h.	Custo: Todas as ferramentas utilizadas são gratuitas.
+
+OBS: Os arquivos "input.txt" e "output.txt" indicam, respectivamente, as entradas e saídas utilizadas no programa
